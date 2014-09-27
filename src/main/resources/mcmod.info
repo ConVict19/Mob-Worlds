@@ -1,0 +1,21 @@
+[
+ {
+   "modid": "MobWorlds",
+   "name": "Mob Worlds",
+   "description": "Ever wondered where those nasty critters come from? Well find out on this AMAZING adventure!!",
+   "version": "1.0",
+   "mcversion": "1.7.10",
+   "url": "",
+   "updateUrl": "",
+   "authorList": [
+     "ConVict"
+   ],
+   "credits": "To the modding community and all those that make modding possible",
+   "logoFile": "",
+   "screenshots": [
+   ],
+   "parent":"",
+   "dependencies": [
+   ]
+ }
+ ]
