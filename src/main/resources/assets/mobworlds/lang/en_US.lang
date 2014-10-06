@@ -1,0 +1,14 @@
+# Items
+item.mobworlds:punchStick.name=Punch Stick of Justice
+item.mobworlds:Jewel.Silken.name=Silken Jewel
+item.mobworlds:Jewel.Festering.name=Festering Jewel
+item.mobworlds:Jewel.Gritty.name=Gritty Jewel
+
+# Blocks
+tile.mobworlds:OreJewel.Silken.name=Silken Jewel Ore
+tile.mobworlds:OreJewel.Festering.name=Festering Jewel Ore
+tile.mobworlds:OreJewel.Gritty.name=Gritty Jewel Ore
+
+
+# Creative Tabs
+itemGroup.mobworlds=Mob Worlds
